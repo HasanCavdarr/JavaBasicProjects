@@ -16,7 +16,7 @@ public class Main {
 
         boolean calisiyorMu = true;
         while (calisiyorMu) {
-            System.out.println("Lütfen hangi işemi yapmak istediğini seçiniz");
+            System.out.println("\nLütfen hangi işemi yapmak istediğini seçiniz");
             System.out.println("Oyun satın almak için 1");
             System.out.println("Oyun satın kiralamak için 2");
             System.out.println("Oyun iadesi olursturmak için 3");
