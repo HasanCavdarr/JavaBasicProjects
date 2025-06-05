@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Main {
+public class OyunDagitimSistemi {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Lüften bakiyeniizi giriniz: ");
